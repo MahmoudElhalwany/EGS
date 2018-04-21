@@ -1,0 +1,7 @@
+#include "MyForm.h"
+#include "Login.h"
+#include "Register.h" 
+#include "AdminProfile.h"
+#include "MyForm2.h"
+#include "MyForm3.h"
+#include "MyForm4.h"
